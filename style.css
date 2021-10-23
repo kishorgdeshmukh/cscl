@@ -1,0 +1,60 @@
+body{
+    background-color: antiquewhite;
+}
+#marq{
+    background-color: black;
+    color:white;
+    font-family: serif;
+}
+
+.heading
+{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Bree Serif', serif;
+    font-weight: 550;
+    border: 5px solid  rgba(0, 0, 56, 0.192);
+    background-color: #ffffff;
+}
+
+.whatsapp
+{
+    /* background-color: black; */
+    width: 500px;
+    height: 400px;
+    margin: auto;
+}
+
+.order
+{
+    /* color: black; */
+    font-family: serif;
+    text-align: center;
+    margin-top:50px ;
+    padding-top:50px ;
+    
+}
+
+
+/* .footer{
+    background-color: white(190, 53, 53);
+    color: white;
+    /* width: auto;
+    height: 150px; 
+} */
+
+.table{
+    background-color: #6b308d;
+    color: white;
+    font-family: serif;
+    
+}
+h5{
+    text-decoration: underline;
+}
+
+
+.devp{
+    text-align: center;
+    /* background-color: burlywood; */
+}
